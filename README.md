@@ -1,3 +1,1 @@
-### Hi there 👋
-
-<h1> Swixo </h1>
+<h1>Welcome ! :)</h1>
