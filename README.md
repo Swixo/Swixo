@@ -4,8 +4,8 @@
 <h1>Stats 📊</h1><br>
 
 <a href="https://github.com/nuts7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuts7&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" width="420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuts7&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="420">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuts7&layout=compact&theme=gotham" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuts7&layout=compact&theme=dark" width="420">
 </a>
